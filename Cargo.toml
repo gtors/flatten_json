@@ -1,7 +1,12 @@
 [package]
 name = "flatten_json"
+description = "Lib to flatten nested JSON"
 version = "0.1.0"
-authors = ["gtors <gtors.potato@gmail.com>"]
+authors = ["gtors <andrey.torsunov@gmail.com>"]
+homepage = "https://github.com/gtors/flatten_json"
+repository = "https://github.com/gtors/flatten_json"
+keywords = ["flatten", "json"]
+license = "MIT"
 
 [dependencies]
 serde_json = "^1.0"
